@@ -1,6 +1,6 @@
 /*neutral*/
 * {
-	font-family: 'karla', sans-serif;
+	font-family: 'roboto', sans-serif;
 }.footer,
 .header {
 	background: #1B1B1B;
@@ -20,7 +20,8 @@ body {
 }
 /*text*/
 .heading {
-  font-weight: 100;
+  font-family: 'Archivo Black', sans-serif;
+  font-weight: 400;
   font-size: 50px;
   line-height: 68px;
 }
@@ -31,6 +32,8 @@ body {
   }
 }
 .subheading {
+  font-family: 'Archivo Black', sans-serif;
+  font-weight: 400;
   font-size: 30px;
   line-height: 40px;
   font-weight: 500;
