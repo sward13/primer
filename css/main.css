@@ -3,11 +3,11 @@
 	font-family: 'roboto', sans-serif;
 }.footer,
 .header {
-	background: #1B1B1B;
+	background: #091B37;
 	color: white;
 }
 .ctas-button {
-	color: #1B1B1B;
+	color: #091B37;
 }@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 *,
 *:before,
@@ -36,7 +36,7 @@ body {
   font-weight: 400;
   font-size: 30px;
   line-height: 40px;
-  font-weight: 500;
+  color:#1B6075;
 }
 @media (max-width: 900px) {
   .subheading {
